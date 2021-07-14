@@ -1,5 +1,5 @@
 ### Hi there 👋
-mi nombre es Juan Francisco
+mi nombre es Juan Francisco y estoy aprendiando a como programar una pagina web
 <!--
 **JuanFco2021/JuanFco2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
